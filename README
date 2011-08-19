@@ -2,3 +2,4 @@ This is my attempt at partially reverse enginneering an old 40 char VFD I found.
 It has five cables, runs on 5V and generates any HV on-board. It contains a
 Z80CPUB1 by SGS (ST). Not yet in the schematics is an EPROM chip and some
 passive components.
+This is also the first time I use KiCad.
